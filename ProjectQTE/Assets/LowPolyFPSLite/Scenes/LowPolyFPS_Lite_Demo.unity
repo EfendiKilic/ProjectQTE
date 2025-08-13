@@ -4030,6 +4030,7 @@ MonoBehaviour:
   controller: {fileID: 1162807031}
   speed: 12
   gravity: -9.81
+  jumpHeight: 3
   groundDistance: 0.4
   groundMask:
     serializedVersion: 2
